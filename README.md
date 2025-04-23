@@ -1,10 +1,10 @@
-# kfv_bash
+# Knexyce Fork Virus
 
 **Warning: This script contains code with malicious intent and must be used responsibly. Running this script can cause severe damage to systems, including crashes and data loss.**
 
 ## Overview
 
-`kfv_bash` is a Python script that demonstrates the behavior of fork bombs and other resource-exhaustion exploits. It is intended for educational and research purposes only, to understand how such attacks work and how to defend against them.
+`kfv` is a Python script that demonstrates the behavior of fork bombs and other resource-exhaustion exploits. It is intended for educational and research purposes only, to understand how such attacks work and how to defend against them.
 
 **Do not run this script on production systems or without explicit consent from the system owner.**
 
@@ -18,13 +18,13 @@
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/kfv_bash.git
-   cd kfv_bash
+   git clone https://github.com/your-username/kfv.git
+   cd kfv
    ```
 
 2. Run the script:
    ```bash
-   python kfv_bash.py
+   python kfv.py
    ```
 
    **Important:** Only run this script in a controlled environment, such as a virtual machine or container, where system resources can be limited and monitored.
